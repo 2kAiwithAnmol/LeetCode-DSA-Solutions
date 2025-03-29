@@ -9,14 +9,15 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 ---
 
 ## 📂 **LeetCode Problems Covered**
-
 | #  | Problem                                                                                     | Solution                                | Difficulty |
 | -- | ------------------------------------------------------------------------------------------ | --------------------------------------- | ---------- |
 | 1  | [Three Sum](https://leetcode.com/problems/3sum/)                                          | [Solution](./threeSum.js)              | Medium     |
 | 2  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./productExceptSelf.js)      | Medium     |
 | 3  | [Next Permutation](https://leetcode.com/problems/next-permutation/)                       | [Solution](./nextPermutation.js)       | Medium     |
-| 4  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./longestSubstring.js) | Medium     |
-| 5  | More Coming Soon... 🚀                                                                     |                                         |            |
+| 4  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./LongestSubstringWithoutRepeatingCharacters.js) | Medium     |
+| 5  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                           | [Solution](./groupAnagrams.js)         | Medium     |
+| 6  | More Coming Soon... 🚀                                                                     |                                         |            |
+
 
 ---
 
