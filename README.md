@@ -10,12 +10,13 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 
 ## 📂 **LeetCode Problems Covered**
 
-| #  | Problem                                                                                     | Solution                           | Difficulty |
-| -- | ------------------------------------------------------------------------------------------ | ---------------------------------- | ---------- |
-| 1  | [Three Sum](https://leetcode.com/problems/3sum/)                                          | [Solution](./threeSum.js)         | Medium     |
-| 2  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./productExceptSelf.js) | Medium     |
-| 3  | [Next Permutation](https://leetcode.com/problems/next-permutation/)                       | [Solution](./nextPermutation.js)  | Medium     |
-| 4  | More Coming Soon... 🚀                                                                     |                                    |            |
+| #  | Problem                                                                                     | Solution                                | Difficulty |
+| -- | ------------------------------------------------------------------------------------------ | --------------------------------------- | ---------- |
+| 1  | [Three Sum](https://leetcode.com/problems/3sum/)                                          | [Solution](./threeSum.js)              | Medium     |
+| 2  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./productExceptSelf.js)      | Medium     |
+| 3  | [Next Permutation](https://leetcode.com/problems/next-permutation/)                       | [Solution](./nextPermutation.js)       | Medium     |
+| 4  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./longestSubstring.js) | Medium     |
+| 5  | More Coming Soon... 🚀                                                                     |                                         |            |
 
 ---
 
@@ -31,7 +32,6 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 1️⃣ **Clone this repo:**
 ```bash
 git clone https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions.git
-
 
 
 
