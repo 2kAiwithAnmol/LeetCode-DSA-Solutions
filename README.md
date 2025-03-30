@@ -11,12 +11,14 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 ## 📂 **LeetCode Problems Covered**
 | #  | Problem                                                                                     | Solution                                | Difficulty |
 | -- | ------------------------------------------------------------------------------------------ | --------------------------------------- | ---------- |
-| 1  | [Three Sum](https://leetcode.com/problems/3sum/)                                          | [Solution](./threeSum.js)              | Medium     |
-| 2  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./productExceptSelf.js)      | Medium     |
-| 3  | [Next Permutation](https://leetcode.com/problems/next-permutation/)                       | [Solution](./nextPermutation.js)       | Medium     |
-| 4  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./LongestSubstringWithoutRepeatingCharacters.js) | Medium     |
-| 5  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                           | [Solution](./groupAnagrams.js)         | Medium     |
-| 6  | More Coming Soon... 🚀                                                                     |                                         |            |
+| 1  | [Two Sum](https://leetcode.com/problems/two-sum/)                                          | [Solution](./twoSum.js)                | Easy       |
+| 2  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](./removeDuplicates26.js) | Easy       |
+| 3  | [Three Sum](https://leetcode.com/problems/3sum/)                                          | [Solution](./threeSum.js)              | Medium     |
+| 4  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./productExceptSelf.js)      | Medium     |
+| 5  | [Next Permutation](https://leetcode.com/problems/next-permutation/)                       | [Solution](./nextPermutation.js)       | Medium     |
+| 6  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./LongestSubstringWithoutRepeatingCharacters.js) | Medium     |
+| 7  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                           | [Solution](./groupAnagrams.js)         | Medium     |
+| 8  | More Coming Soon... 🚀 🚀                                                                     |                                         |            |
 
 
 ---
