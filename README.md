@@ -18,7 +18,9 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 5  | [Next Permutation](https://leetcode.com/problems/next-permutation/)                       | [Solution](./nextPermutation.js)       | Medium     |
 | 6  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./LongestSubstringWithoutRepeatingCharacters.js) | Medium     |
 | 7  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                           | [Solution](./groupAnagrams.js)         | Medium     |
-| 8  | More Coming Soon... 🚀 🚀                                                                     |                                         |            |
+| 8  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                       | [Solution](./validPalindrome.js)       | Easy       |
+| 9  | [Reverse String](https://leetcode.com/problems/reverse-string/)                           | [Solution](./reverseString.js)         | Easy       |
+| 10 | More Coming Soon... 🚀 🚀 |
 
 
 ---
