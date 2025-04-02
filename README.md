@@ -20,8 +20,9 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 7  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                           | [Solution](./groupAnagrams.js)         | Medium     |
 | 8  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                       | [Solution](./validPalindrome.js)       | Easy       |
 | 9  | [Reverse String](https://leetcode.com/problems/reverse-string/)                           | [Solution](./reverseString.js)         | Easy       |
-| 10 | More Coming Soon... 🚀 🚀 |
-
+| 10 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                 | [Solution](./moveZeroes.js)            | Easy       |
+| 11 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)   | [Solution](./intersectionOfTwoArrays.js) | Easy       |
+| 12 | More Coming Soon... 🚀 🚀 |
 
 ---
 
