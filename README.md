@@ -22,7 +22,9 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 9  | [Reverse String](https://leetcode.com/problems/reverse-string/)                           | [Solution](./reverseString.js)         | Easy       |
 | 10 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                 | [Solution](./moveZeroes.js)            | Easy       |
 | 11 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)   | [Solution](./intersectionOfTwoArrays.js) | Easy       |
-| 12 | More Coming Soon... 🚀 🚀 |
+| 12 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                               | [Solution](./rotateArray.js)           | Medium     |
+| 13 | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                 | [Solution](./sortColors.js)            | Medium     |
+| 14 | More Coming Soon... 🚀 🚀 |  
 
 ---
 
