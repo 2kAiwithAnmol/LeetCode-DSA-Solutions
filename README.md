@@ -25,8 +25,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 12 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                               | [Solution](./rotateArray.js)           | Medium     |
 | 13 | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                 | [Solution](./sortColors.js)            | Medium     |
 | 14 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)     | [Solution](./containerWithMostWater.js) | Medium     |
-| 15 | More Coming Soon... 🚀 🚀 |
-
+| 15 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                             | [Solution](./validAnagram.js)          | Easy       |
+| 16 | More Coming Soon... 🚀 🚀 |
 ---
 
 ## 📌 **Why This Repo?**
