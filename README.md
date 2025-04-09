@@ -29,7 +29,9 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 16 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Solution](./findAllAnagramsInString.js) | Medium     |
 | 17 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Solution](./permutationInString.js) | Medium     |
 | 18  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](./minimumSizeSubarraySum.js) | Medium     |
-| 19  | More Coming Soon... 🚀🚀 
+| 19  | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](./longestRepeatingCharacterReplacement.js) | Medium     |
+| 20  | More Coming Soon... 🚀🚀  |
+
 
 
 ---
