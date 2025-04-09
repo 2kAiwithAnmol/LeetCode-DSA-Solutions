@@ -28,7 +28,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 15 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                             | [Solution](./validAnagram.js)          | Easy       |
 | 16 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Solution](./findAllAnagramsInString.js) | Medium     |
 | 17 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Solution](./permutationInString.js) | Medium     |
-| 18 | More Coming Soon... 🚀 🚀 |
+| 18  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](./minimumSizeSubarraySum.js) | Medium     |
+| 19  | More Coming Soon... 🚀🚀 
 
 
 ---
