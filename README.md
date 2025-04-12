@@ -31,7 +31,9 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 18  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](./minimumSizeSubarraySum.js) | Medium     |
 | 19  | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](./longestRepeatingCharacterReplacement.js) | Medium     |
 | 20  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution](./findPivotIndex.js) | Easy     |
-| 21  | More Coming Soon... 🚀🚀  |
+| 21  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./bestTimetoBuyandSellStock.js) | Easy     |
+| 22  | More Coming Soon... 🚀🚀  |  |          |
+
 
 
 
