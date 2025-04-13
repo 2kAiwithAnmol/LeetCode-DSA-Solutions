@@ -32,7 +32,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 19  | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](./longestRepeatingCharacterReplacement.js) | Medium     |
 | 20  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution](./findPivotIndex.js) | Easy     |
 | 21  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./bestTimetoBuyandSellStock.js) | Easy     |
-| 22  | More Coming Soon... 🚀🚀  |  |          |
+| 22  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./maxConsecutiveOnes.js) | Easy     |
+| 23  | More Coming Soon... 🚀🚀  |  |   |
 
 
 
