@@ -33,7 +33,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 20  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution](./findPivotIndex.js) | Easy     |
 | 21  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./bestTimetoBuyandSellStock.js) | Easy     |
 | 22  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./maxConsecutiveOnes.js) | Easy     |
-| 23  | More Coming Soon... 🚀🚀  |  |   |
+| 23  | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Solution](./maximumNumberofVowelsinaSubstringofGivenLength.js) | Medium |
+| 24  | More Coming Soon... 🚀🚀  |  |   |
 
 
 
