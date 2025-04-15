@@ -34,7 +34,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 21  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./bestTimetoBuyandSellStock.js) | Easy     |
 | 22  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./maxConsecutiveOnes.js) | Easy     |
 | 23  | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Solution](./maximumNumberofVowelsinaSubstringofGivenLength.js) | Medium |
-| 24  | More Coming Soon... 🚀🚀  |  |   |
+| 24  | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | [Solution](./maximumSumofDistinctSubarraysWithLengthK.js) | Medium |
+| 25  | More Coming Soon... 🚀🚀  |  |   |
 
 
 
