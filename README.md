@@ -36,7 +36,9 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 23  | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Solution](./maximumNumberofVowelsinaSubstringofGivenLength.js) | Medium |
 | 24  | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | [Solution](./maximumSumofDistinctSubarraysWithLengthK.js) | Medium |
 | 25  | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Solution](./fruitIntoBaskets.js) | Medium |
-| 26  | More Coming Soon... 🚀🚀  |  |   |
+| 26  | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Solution](./sumOfAllOddLengthSubarrays.js) | Easy |
+| 27  | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Solution](./subarrayProductLessThanK.js) | Medium |
+| 28  | More Coming Soon... 🚀🚀  |  |   |
 
 
 
