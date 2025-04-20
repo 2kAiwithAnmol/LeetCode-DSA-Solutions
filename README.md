@@ -38,7 +38,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 25  | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Solution](./fruitIntoBaskets.js) | Medium |
 | 26  | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Solution](./sumOfAllOddLengthSubarrays.js) | Easy |
 | 27  | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Solution](./subarrayProductLessThanK.js) | Medium |
-| 28  | More Coming Soon... 🚀🚀  |  |   |
+| 28  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](./findtheIndexoftheFirstOccurrenceinaString.js) | Easy |
+| 29  | More Coming Soon... 🚀🚀  |  |   |
 
 
 
