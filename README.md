@@ -39,7 +39,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 26  | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Solution](./sumOfAllOddLengthSubarrays.js) | Easy |
 | 27  | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Solution](./subarrayProductLessThanK.js) | Medium |
 | 28  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](./findtheIndexoftheFirstOccurrenceinaString.js) | Easy |
-| 29  | More Coming Soon... 🚀🚀  |  |   |
+| 29  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](./reverseWordsinaString.js) | Medium | 
+| 30  | More Coming Soon... 🚀🚀  |  |   |
 
 
 
