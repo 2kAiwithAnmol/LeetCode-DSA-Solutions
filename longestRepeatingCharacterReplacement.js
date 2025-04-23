@@ -25,4 +25,4 @@ var characterReplacement = function(s, k) {
     }
 
     return result;
-};
+}; 
