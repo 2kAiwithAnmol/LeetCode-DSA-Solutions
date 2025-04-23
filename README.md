@@ -41,7 +41,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 28  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](./findtheIndexoftheFirstOccurrenceinaString.js) | Easy |
 | 29  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](./reverseWordsinaString.js) | Medium | 
 | 30  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution](./isSubsequence.js) | Easy |
-| 31  | More Coming Soon... 🚀🚀  |  |   |
+| 31  | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Solution](./licenseKeyFormatting.js) | Easy |
+| 32  | More Coming Soon... 🚀🚀  |  |   |
 
 
 
