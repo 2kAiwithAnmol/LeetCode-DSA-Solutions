@@ -43,7 +43,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 30  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution](./isSubsequence.js) | Easy |
 | 31  | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Solution](./licenseKeyFormatting.js) | Easy |
 | 32  | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Solution](./toLowerCase.js) | Easy |
-| 33  | More Coming Soon... 🚀🚀  |  |   |
+| 33  | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Solution](./transposeMatrix.js) | Easy |
+| 34  | More Coming Soon... 🚀🚀  |  |   |
 
 
 
