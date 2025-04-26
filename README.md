@@ -44,7 +44,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 31  | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Solution](./licenseKeyFormatting.js) | Easy |
 | 32  | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Solution](./toLowerCase.js) | Easy |
 | 33  | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Solution](./transposeMatrix.js) | Easy |
-| 34  | More Coming Soon... 🚀🚀  |  |   |
+| 34  | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Solution](./matrixDiagonalSum.js) | Easy |
+| 35  | More Coming Soon... 🚀🚀  |  |   |
 
 
 
