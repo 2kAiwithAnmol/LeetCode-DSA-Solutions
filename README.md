@@ -45,7 +45,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 32  | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Solution](./toLowerCase.js) | Easy |
 | 33  | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Solution](./transposeMatrix.js) | Easy |
 | 34  | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Solution](./matrixDiagonalSum.js) | Easy |
-| 35  | More Coming Soon... 🚀🚀  |  |   |
+| 35  | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Solution](./flippinganImage.js) | Easy |
+| 36  | More Coming Soon... 🚀🚀  |  |   |
 
 
 
