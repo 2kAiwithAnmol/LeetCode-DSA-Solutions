@@ -47,7 +47,9 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 34  | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Solution](./matrixDiagonalSum.js) | Easy |
 | 35  | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Solution](./flippinganImage.js) | Easy |
 | 36  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./searcha2DMatrix.js) | Medium |
-| 37  | More Coming Soon... 🚀🚀  |  |   |
+| 37  | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./reshapetheMatrix.js) | Easy |
+| 38  | More Coming Soon... 🚀🚀  |  |   |
+
 
 
 
