@@ -48,7 +48,9 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 35  | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Solution](./flippinganImage.js) | Easy |
 | 36  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./searcha2DMatrix.js) | Medium |
 | 37  | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./reshapetheMatrix.js) | Easy |
-| 38  | More Coming Soon... 🚀🚀  |  |   |
+| 38  | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Solution](./countNegativeNumbersinaSortedMatrix.js) | Easy |
+| 39  | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./toeplitzMatrix.js) | Easy |
+| 40  | More Coming Soon... 🚀🚀  |  |   |
 
 
 
