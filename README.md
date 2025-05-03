@@ -51,7 +51,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 38  | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Solution](./countNegativeNumbersinaSortedMatrix.js) | Easy |
 | 39  | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./toeplitzMatrix.js) | Easy |
 | 40  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./searcha2DMatrixII.js) | Medium | 
-| 41  | More Coming Soon... 🚀🚀  |  |   |
+| 41  | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./rotateImage.js) | Medium |
+| 42  | [More Coming Soon... 🚀🚀](#) |  |   |
 
 
 
