@@ -52,7 +52,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 39  | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./toeplitzMatrix.js) | Easy |
 | 40  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./searcha2DMatrixII.js) | Medium | 
 | 41  | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./rotateImage.js) | Medium |
-| 42  | [More Coming Soon... 🚀🚀](#) |  |   |
+| 42  | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | [Solution](./rowWithMaximumOnes.js) | Easy | 
+| 43  | [More Coming Soon... 🚀🚀](#) |  |   |
 
 
 
