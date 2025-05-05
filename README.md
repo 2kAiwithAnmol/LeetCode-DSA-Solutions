@@ -54,7 +54,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 41  | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./rotateImage.js) | Medium |
 | 42  | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | [Solution](./rowWithMaximumOnes.js) | Easy | 
 | 43  | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./singleNumber.js) | Easy |
-| 44  | [More Coming Soon... 🚀🚀](#) |  |   |
+| 44  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Solution](./intersectionOfTwoArraysII.js) | Easy | 
+| 45  | [More Coming Soon... 🚀🚀](#) |  |   
 
 
 
