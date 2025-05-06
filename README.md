@@ -55,7 +55,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 42  | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | [Solution](./rowWithMaximumOnes.js) | Easy | 
 | 43  | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./singleNumber.js) | Easy |
 | 44  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Solution](./intersectionOfTwoArraysII.js) | Easy | 
-| 45  | [More Coming Soon... 🚀🚀](#) |  |   
+| 45  | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [Solution](./happyNumber.js) | Easy |  
+| 46  | [More Coming Soon... 🚀🚀](#) |  | 
 
 
 
