@@ -57,7 +57,9 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 44  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Solution](./intersectionOfTwoArraysII.js) | Easy | 
 | 45  | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [Solution](./happyNumber.js) | Easy |  
 | 46  | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Solution](./ransomNote.js) | Easy |  
-| 47  | [More Coming Soon... 🚀🚀](#) |  | 
+| 47  | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [Solution](./findTheDifference.js) | Easy |  
+| 48  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Solution](./jewelsAndStones.js) | Easy |  
+| 49  | [More Coming Soon... 🚀🚀](#) |  | 
 
 
 
