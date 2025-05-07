@@ -56,7 +56,9 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 43  | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./singleNumber.js) | Easy |
 | 44  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Solution](./intersectionOfTwoArraysII.js) | Easy | 
 | 45  | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [Solution](./happyNumber.js) | Easy |  
-| 46  | [More Coming Soon... 🚀🚀](#) |  | 
+| 46  | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Solution](./ransomNote.js) | Easy |  
+| 47  | [More Coming Soon... 🚀🚀](#) |  | 
+
 
 
 
