@@ -59,7 +59,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 46  | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Solution](./ransomNote.js) | Easy |  
 | 47  | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [Solution](./findTheDifference.js) | Easy |  
 | 48  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Solution](./jewelsAndStones.js) | Easy |  
-| 49  | [More Coming Soon... 🚀🚀](#) |  | 
+| 49  | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | [Solution](./uncommonWordsFromTwoSentences.js) | Easy |  
+| 50  | [More Coming Soon... 🚀🚀](#) |  | 
 
 
 
