@@ -61,7 +61,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 48  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Solution](./jewelsAndStones.js) | Easy |  
 | 49  | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | [Solution](./uncommonWordsFromTwoSentences.js) | Easy |  
 | 50  | [Design HashSet](https://leetcode.com/problems/design-hashset/description/) | [Solution](./designHashSet.js) | Easy |  
-| 51  | [More Coming Soon... 🚀🚀](#) |  | 
+| 51  | [Majority Element](https://leetcode.com/problems/majority-element/) | [Solution](./majorityElement.js) | Easy |  
+| 52  | [More Coming Soon... 🚀🚀](#) |  | 
 
 
 
