@@ -62,7 +62,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 49  | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | [Solution](./uncommonWordsFromTwoSentences.js) | Easy |  
 | 50  | [Design HashSet](https://leetcode.com/problems/design-hashset/description/) | [Solution](./designHashSet.js) | Easy |  
 | 51  | [Majority Element](https://leetcode.com/problems/majority-element/) | [Solution](./majorityElement.js) | Easy |  
-| 52  | [More Coming Soon... 🚀🚀](#) |  | 
+| 52  | [ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Solution](./topKFrequentElements.js) | Medium |  
+| 53  | [More Coming Soon... 🚀🚀](#) |  | 
 
 
 
