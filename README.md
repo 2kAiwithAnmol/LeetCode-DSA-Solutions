@@ -63,7 +63,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 50  | [Design HashSet](https://leetcode.com/problems/design-hashset/description/) | [Solution](./designHashSet.js) | Easy |  
 | 51  | [Majority Element](https://leetcode.com/problems/majority-element/) | [Solution](./majorityElement.js) | Easy |  
 | 52  | [ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Solution](./topKFrequentElements.js) | Medium |  
-| 53  | [More Coming Soon... 🚀🚀](#) |  | 
+| 53  | [ Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Solution](./findAllDuplicatesInAnArray.js) | Medium |  
+| 54  | [More Coming Soon... 🚀🚀](#) |  | 
 
 
 
