@@ -65,7 +65,9 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 52  | [ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Solution](./topKFrequentElements.js) | Medium |  
 | 53  | [ Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Solution](./findAllDuplicatesInAnArray.js) | Medium |  
 | 54  | [ Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) | [Solution](./findCommonCharacters.js) | Easy |  
-| 55  | [More Coming Soon... 🚀🚀](#) |  | 
+| 55  | [ Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [Solution](./sortCharactersByFrequency.js) | Medium |  
+| 56  | [More Coming Soon... 🚀🚀](#) |  | 
+
 
 
 
