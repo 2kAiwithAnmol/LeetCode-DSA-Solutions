@@ -67,7 +67,9 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 54  | [ Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) | [Solution](./findCommonCharacters.js) | Easy |  
 | 55  | [ Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [Solution](./sortCharactersByFrequency.js) | Medium |  
 | 56  | [ Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/) | [Solution](./kthDistinctStringInAnArray.js) | Easy |  
-| 57  | [More Coming Soon... 🚀🚀](#) |  | 
+| 57  | [ Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/) | [Solution](./uniqueNumberOfOccurrences.js) | Easy |  
+| 58  | [More Coming Soon... 🚀🚀](#) |  | 
+
 
 
 
