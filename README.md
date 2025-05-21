@@ -71,7 +71,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 58  | [ Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/description/) | [Solution](./intersectionOfMultipleArrays.js) | Easy |  
 | 59  | [ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Solution](./longestConsecutiveSequence.js) | Medium |  
 | 60  | [ Partition Labels](https://leetcode.com/problems/partition-labels/) | [Solution](./partitionLabels.js) | Medium |  
-| 61  | [More Coming Soon... 🚀🚀](#) |  | 
+| 61  | [ Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/) | [Solution](./binarySubarraysWithSum.js) | Medium |  
+| 62  | [More Coming Soon... 🚀🚀](#) |  | 
 
 
 
