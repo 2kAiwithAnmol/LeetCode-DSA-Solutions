@@ -73,7 +73,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 60  | [ Partition Labels](https://leetcode.com/problems/partition-labels/) | [Solution](./partitionLabels.js) | Medium |  
 | 61  | [ Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/) | [Solution](./binarySubarraysWithSum.js) | Medium |  
 | 62  | [ Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/) | [Solution](./largestSubstringBetweenTwoEqualCharacters.js) | Easy |  
-| 63  | [More Coming Soon... 🚀🚀](#) |  | 
+| 63  | [ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Solution](./fibonacciNumber.js) | Easy |  
+| 64  | [More Coming Soon... 🚀🚀](#) |  | 
 
 
 
