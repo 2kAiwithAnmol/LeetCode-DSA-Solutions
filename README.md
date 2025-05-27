@@ -76,7 +76,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 63  | [ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Solution](./fibonacciNumber.js) | Easy |  
 | 64  | [ Power of Two](https://leetcode.com/problems/power-of-two/description/) | [Solution](./powerOfTwo.js) | Easy |  
 | 65  | [ N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/) | [Solution](./n-thTribonacciNumber.js) | Easy |  
-| 66  | [More Coming Soon... 🚀🚀](#) |  |
+| 66  | [ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Solution](./validParentheses.js) | Easy |  
+| 67  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
