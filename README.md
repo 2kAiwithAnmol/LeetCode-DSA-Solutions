@@ -77,7 +77,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 64  | [ Power of Two](https://leetcode.com/problems/power-of-two/description/) | [Solution](./powerOfTwo.js) | Easy |  
 | 65  | [ N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/) | [Solution](./n-thTribonacciNumber.js) | Easy |  
 | 66  | [ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Solution](./validParentheses.js) | Easy |  
-| 67  | [More Coming Soon... 🚀🚀](#) |  |
+| 67  | [ Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [Solution](./baseballGame.js) | Easy |  
+| 68  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
