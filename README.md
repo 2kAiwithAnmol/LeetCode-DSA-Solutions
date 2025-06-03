@@ -81,7 +81,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 68  | [ Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Solution](./backspaceStringCompare.js) | Easy |  
 | 69  | [ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) | [Solution](./removeAllAdjacentDuplicatesInString.js) | Easy |  
 | 70  | [ Make The String Great](https://leetcode.com/problems/make-the-string-great/description/) | [Solution](./makeTheStringGreat.js) | Easy |  
-| 71  | [More Coming Soon... 🚀🚀](#) |  |
+| 71  | [ Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/) | [Solution](./findGreatestCommonDivisorOfArray.js) | Easy |  
+| 72  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
