@@ -83,7 +83,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 70  | [ Make The String Great](https://leetcode.com/problems/make-the-string-great/description/) | [Solution](./makeTheStringGreat.js) | Easy |  
 | 71  | [ Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/) | [Solution](./findGreatestCommonDivisorOfArray.js) | Easy |  
 | 72  | [ Binary Search](https://leetcode.com/problems/binary-search/description/) | [Solution](./binarySearch.js) | Easy |  
-| 73  | [More Coming Soon... 🚀🚀](#) |  |
+| 73  | [ Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Solution](./pascalsTriangle.js) | Easy |  
+| 74  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
