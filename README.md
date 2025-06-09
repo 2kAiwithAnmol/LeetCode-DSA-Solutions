@@ -85,7 +85,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 72  | [ Binary Search](https://leetcode.com/problems/binary-search/description/) | [Solution](./binarySearch.js) | Easy |  
 | 73  | [ Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Solution](./pascalsTriangle.js) | Easy |  
 | 74  | [ Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Solution](./palindromeNumber.js) | Easy |  
-| 75  | [More Coming Soon... 🚀🚀](#) |  |
+| 75  | [ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](./climbingStairs.js) | Easy |  
+| 76  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
