@@ -86,7 +86,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 73  | [ Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Solution](./pascalsTriangle.js) | Easy |  
 | 74  | [ Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Solution](./palindromeNumber.js) | Easy |  
 | 75  | [ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](./climbingStairs.js) | Easy |  
-| 76  | [More Coming Soon... 🚀🚀](#) |  |
+| 76  | [ Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) | [Solution](./sumOfLeftLeaves.js) | Easy |  
+| 77  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
