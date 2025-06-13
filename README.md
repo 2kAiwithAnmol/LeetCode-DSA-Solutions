@@ -89,7 +89,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 76  | [ Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) | [Solution](./sumOfLeftLeaves.js) | Easy |  
 | 77  | [ Same Tree](https://leetcode.com/problems/same-tree/description/) | [Solution](./sameTree.js) | Easy |  
 | 78  | [ Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [Solution](./binaryTreePreorderTraversal.js) | Easy |  
-| 79  | [More Coming Soon... 🚀🚀](#) |  |
+| 79  | [ Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [Solution](./binaryTreePostorderTraversal.js) | Easy |  
+| 80  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
