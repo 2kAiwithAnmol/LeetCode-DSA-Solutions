@@ -90,7 +90,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 77  | [ Same Tree](https://leetcode.com/problems/same-tree/description/) | [Solution](./sameTree.js) | Easy |  
 | 78  | [ Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [Solution](./binaryTreePreorderTraversal.js) | Easy |  
 | 79  | [ Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [Solution](./binaryTreePostorderTraversal.js) | Easy |  
-| 80  | [More Coming Soon... 🚀🚀](#) |  |
+| 80  | [ Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./binaryTreeInorderTraversal.js) | Easy |  
+| 81  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
