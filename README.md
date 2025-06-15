@@ -91,7 +91,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 78  | [ Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [Solution](./binaryTreePreorderTraversal.js) | Easy |  
 | 79  | [ Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [Solution](./binaryTreePostorderTraversal.js) | Easy |  
 | 80  | [ Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./binaryTreeInorderTraversal.js) | Easy |  
-| 81  | [More Coming Soon... 🚀🚀](#) |  |
+| 81  | [ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Solution](./invertBinaryTree.js) | Easy |  
+| 82  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
