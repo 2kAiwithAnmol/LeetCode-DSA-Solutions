@@ -93,7 +93,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 80  | [ Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./binaryTreeInorderTraversal.js) | Easy |  
 | 81  | [ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Solution](./invertBinaryTree.js) | Easy |  
 | 82  | [ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Solution](./maximumDepthOfBinaryTree.js) | Easy |  
-| 83  | [More Coming Soon... 🚀🚀](#) |  |
+| 83  | [ Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](./symmetricTree.js) | Easy |  
+| 84  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
