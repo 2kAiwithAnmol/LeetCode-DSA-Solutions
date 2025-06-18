@@ -94,7 +94,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 81  | [ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Solution](./invertBinaryTree.js) | Easy |  
 | 82  | [ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Solution](./maximumDepthOfBinaryTree.js) | Easy |  
 | 83  | [ Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](./symmetricTree.js) | Easy |  
-| 84  | [More Coming Soon... 🚀🚀](#) |  |
+| 84  | [ Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](./pathSum.js) | Easy |  
+| 85  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
