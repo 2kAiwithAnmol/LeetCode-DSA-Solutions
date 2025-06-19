@@ -95,7 +95,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 82  | [ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Solution](./maximumDepthOfBinaryTree.js) | Easy |  
 | 83  | [ Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](./symmetricTree.js) | Easy |  
 | 84  | [ Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](./pathSum.js) | Easy |  
-| 85  | [More Coming Soon... 🚀🚀](#) |  |
+| 85  | [ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) | [Solution](./rangeSumOfBST.js) | Easy |  
+| 86  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
