@@ -1,28 +1,25 @@
 var rangeSumBST = function(root, low, high) {
-    // Base case: if current node is null, return 0 as there are no values to add
-    if (root === null) {
-        return 0;
+    let sum = 0; // Variable to store the total sum of values within the given range
+    let stack = []; // Stack to assist with iterative traversal of the tree
+    stack.push(root); // Start traversal by pushing the root node into the stack
+
+    while (stack.length > 0) {
+        let node = stack.pop(); // Pop the top node from the stack
+
+        if (node !== null) { // If the node is not null, process it
+            if (node.val >= low && node.val <= high) { // If the node's value is within the given range
+                sum += node.val; // Add the node's value to the sum
+            }
+
+            if (node.val > low) { // If the node's value is greater than low,
+                stack.push(node.left); // its left child might also be within the range
+            }
+
+            if (node.val < high) { // If the node's value is less than high,
+                stack.push(node.right); // its right child might also be within the range
+            }
+        }
     }
 
-    let sum = 0; // Initialize sum for this subtree
-
-    // If current node's value is greater than low, nodes in the left subtree might be in range
-    if (root.val > low) {
-        // Recur on left child and add the result to sum
-        sum += rangeSumBST(root.left, low, high);
-    }
-
-    // If current node's value is within the range [low, high], include it in sum
-    if (root.val >= low && root.val <= high) {
-        sum += root.val;
-    }
-
-    // If current node's value is less than high, nodes in the right subtree might be in range
-    if (root.val < high) {
-        // Recur on right child and add the result to sum
-        sum += rangeSumBST(root.right, low, high);
-    }
-
-    // Return the sum calculated for this subtree
-    return sum;
+    return sum; // Return the final calculated sum
 };
