@@ -96,7 +96,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 83  | [ Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](./symmetricTree.js) | Easy |  
 | 84  | [ Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](./pathSum.js) | Easy |  
 | 85  | [ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) | [Solution](./rangeSumOfBST.js) | Easy |  
-| 86  | [More Coming Soon... 🚀🚀](#) |  |
+| 86  | [ Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Solution](./implementQueueUsingStacks.js) | Easy |  
+| 87  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
