@@ -97,7 +97,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 84  | [ Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](./pathSum.js) | Easy |  
 | 85  | [ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) | [Solution](./rangeSumOfBST.js) | Easy |  
 | 86  | [ Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Solution](./implementQueueUsingStacks.js) | Easy |  
-| 87  | [More Coming Soon... 🚀🚀](#) |  |
+| 87  | [ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [Solution](./dailyTemperatures.js) | Easy |  
+| 88  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
