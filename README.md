@@ -99,7 +99,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 86  | [ Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [Solution](./implementQueueUsingStacks.js) | Easy |  
 | 87  | [ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [Solution](./dailyTemperatures.js) | Easy |  
 | 88  | [ Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/) | [Solution](./finalPricesWithSpecialDiscountInShop.js) | Easy |  
-| 89  | [More Coming Soon... 🚀🚀](#) |  |
+| 89  | [ Plus One](https://leetcode.com/problems/plus-one/description/) | [Solution](./plusOne.js) | Easy |  
+| 90  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
