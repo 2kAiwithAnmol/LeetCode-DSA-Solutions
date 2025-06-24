@@ -100,7 +100,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 87  | [ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [Solution](./dailyTemperatures.js) | Easy |  
 | 88  | [ Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/) | [Solution](./finalPricesWithSpecialDiscountInShop.js) | Easy |  
 | 89  | [ Plus One](https://leetcode.com/problems/plus-one/description/) | [Solution](./plusOne.js) | Easy |  
-| 90  | [More Coming Soon... 🚀🚀](#) |  |
+| 90  | [ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](./fizzBuzz.js) | Easy |  
+| 91  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
