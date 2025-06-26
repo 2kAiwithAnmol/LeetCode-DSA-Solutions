@@ -101,7 +101,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 88  | [ Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/) | [Solution](./finalPricesWithSpecialDiscountInShop.js) | Easy |  
 | 89  | [ Plus One](https://leetcode.com/problems/plus-one/description/) | [Solution](./plusOne.js) | Easy |  
 | 90  | [ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](./fizzBuzz.js) | Easy |  
-| 91  | [More Coming Soon... 🚀🚀](#) |  |
+| 91  | [ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/) | [Solution](./defangingAnIPAddress.js) | Easy |  
+| 92  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
