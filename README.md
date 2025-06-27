@@ -102,7 +102,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 89  | [ Plus One](https://leetcode.com/problems/plus-one/description/) | [Solution](./plusOne.js) | Easy |  
 | 90  | [ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](./fizzBuzz.js) | Easy |  
 | 91  | [ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/) | [Solution](./defangingAnIPAddress.js) | Easy |  
-| 92  | [More Coming Soon... 🚀🚀](#) |  |
+| 92  | [ Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Solution](./romanToInteger.js) | Easy |  
+| 93  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
