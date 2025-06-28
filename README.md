@@ -103,7 +103,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 90  | [ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](./fizzBuzz.js) | Easy |  
 | 91  | [ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/) | [Solution](./defangingAnIPAddress.js) | Easy |  
 | 92  | [ Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Solution](./romanToInteger.js) | Easy |  
-| 93  | [More Coming Soon... 🚀🚀](#) |  |
+| 93  | [ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | [Solution](./squaresOfSortedArray.js) | Easy |  
+| 94  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
