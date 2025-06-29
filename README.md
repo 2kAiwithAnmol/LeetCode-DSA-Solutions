@@ -104,7 +104,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 91  | [ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/) | [Solution](./defangingAnIPAddress.js) | Easy |  
 | 92  | [ Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Solution](./romanToInteger.js) | Easy |  
 | 93  | [ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | [Solution](./squaresOfSortedArray.js) | Easy |  
-| 94  | [More Coming Soon... 🚀🚀](#) |  |
+| 94  | [ Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Solution](./lengthOfLastWord.js) | Easy |  
+| 95  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
