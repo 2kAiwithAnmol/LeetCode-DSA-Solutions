@@ -105,7 +105,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 92  | [ Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Solution](./romanToInteger.js) | Easy |  
 | 93  | [ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | [Solution](./squaresOfSortedArray.js) | Easy |  
 | 94  | [ Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Solution](./lengthOfLastWord.js) | Easy |  
-| 95  | [More Coming Soon... 🚀🚀](#) |  |
+| 95  | [ Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/) | [Solution](./replaceElementsWithGreatestElementRightSide.js) | Easy |  
+| 96  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
