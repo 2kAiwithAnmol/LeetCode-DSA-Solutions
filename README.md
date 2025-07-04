@@ -107,7 +107,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 94  | [ Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Solution](./lengthOfLastWord.js) | Easy |  
 | 95  | [ Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/) | [Solution](./replaceElementsWithGreatestElementRightSide.js) | Easy |  
 | 96  | [ Add Digits](https://leetcode.com/problems/add-digits/submissions/1683767571/) | [Solution](./addDigits.js) | Easy |  
-| 97  | [More Coming Soon... 🚀🚀](#) |  |
+| 97  | [ Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Solution](./twoSum-II.js) | Easy |  
+| 98  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
