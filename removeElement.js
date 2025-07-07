@@ -8,5 +8,4 @@ var removeElement = function(nums, val) {
         }
     }
     
-    return result; // Return the length of the modified array
-};
+    return result; 
