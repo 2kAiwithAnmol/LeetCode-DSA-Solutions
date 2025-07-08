@@ -110,7 +110,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 97  | [ Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Solution](./twoSum-II.js) | Easy |  
 | 98  | [ Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](./mergeSortedArray.js) | Easy |  
 | 99  | [ Remove Element](https://leetcode.com/problems/remove-element/description/?source=submission-ac) | [Solution](./removeElement.js) | Easy |  
-| 100  | [More Coming Soon... 🚀🚀](#) |  |
+| 100  | [ Array Partition](https://leetcode.com/problems/array-partition/description/) | [Solution](./arrayPartition.js) | Easy |  
+| 101  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
