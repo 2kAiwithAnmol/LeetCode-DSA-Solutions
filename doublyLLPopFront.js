@@ -23,7 +23,7 @@ class DoublyLinkedList {
     }
     popFront() {
         if(this.head === null) {
-            console.log("It is empty");
+            console.log("List is empty, Nothing to Pop");
             return null;
         }
        let removedData = this.head.data;
