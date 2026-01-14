@@ -112,7 +112,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 99  | [ Remove Element](https://leetcode.com/problems/remove-element/description/?source=submission-ac) | [Solution](./removeElement.js) | Easy |  
 | 100  | [ Array Partition](https://leetcode.com/problems/array-partition/description/) | [Solution](./arrayPartition.js) | Easy |  
 | 101  | [ LinkedList Implementation](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/linkedList_Implementation.js) | [Solution](./arrayPartition.js) | Easy |  
-| 102  | [More Coming Soon... 🚀🚀](#) |  |
+| 102  | [ Number of Islands](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_200.js) | [Solution](./leetCode_200.js) | Medium |  
+| 103  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
