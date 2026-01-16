@@ -114,8 +114,9 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 101  | [ LinkedList Implementation](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/linkedList_Implementation.js) | [Solution](./arrayPartition.js) | Easy |  
 | 102  | [ Number of Islands](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_200.js) | [Solution](./leetCode_200.js) | Medium |  
 | 103  | [ Find if Path Exists in Graph](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_1971.js) | [Solution](./leetCode_1971.js) | Easy |  
-| 104  | [ Rotting Oranges](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_994.js) | [Solution](./leetCode_994.js) | Easy |  
-| 105  | [More Coming Soon... 🚀🚀](#) |  |
+| 104  | [ Rotting Oranges](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_994.js) | [Solution](./leetCode_994.js) | Medium |  
+| 105  | [ Flood Fill](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_733.js) | [Solution](./leetCode_733.js) | Easy |  
+| 106  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
