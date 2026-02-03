@@ -121,7 +121,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 108  | [ Lowest Common Ancestor of a Binary Tree](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_236.js) | [Solution](./leetCode_236.js) | Medium |  
 | 109  | [ Is Graph Bipartite?](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_785.js) | [Solution](./leetCode_785.js) | Medium |  
 | 110  | [ Kth Largest Element in an Array](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_215.js) | [Solution](./leetCode_215.js) | Medium |  
-| 111  | [More Coming Soon... 🚀🚀](#) |  |
+| 111  | [ Top K Frequent Elements](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_347.js) | [Solution](./leetCode_347.js) | Medium |  
+| 112  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
