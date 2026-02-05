@@ -123,7 +123,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 110  | [ Kth Largest Element in an Array](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_215.js) | [Solution](./leetCode_215.js) | Medium |  
 | 111  | [ Top K Frequent Elements](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_347.js) | [Solution](./leetCode_347.js) | Medium |  
 | 112  | [ Last Stone Weight](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_1046.js) | [Solution](./leetCode_1046.js) | Easy |  
-| 113  | [More Coming Soon... 🚀🚀](#) |  |
+| 113  | [ Reorganize String](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_767.js) | [Solution](./leetCode_767.js) | Medium |  
+| 114  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
