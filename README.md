@@ -124,7 +124,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 111  | [ Top K Frequent Elements](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_347.js) | [Solution](./leetCode_347.js) | Medium |  
 | 112  | [ Last Stone Weight](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_1046.js) | [Solution](./leetCode_1046.js) | Easy |  
 | 113  | [ Reorganize String](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_767.js) | [Solution](./leetCode_767.js) | Medium |  
-| 114  | [More Coming Soon... 🚀🚀](#) |  |
+| 114  | [ Network Delay Time](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_743.js) | [Solution](./leetCode_743.js) | Medium |  
+| 115  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
