@@ -125,7 +125,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 112  | [ Last Stone Weight](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_1046.js) | [Solution](./leetCode_1046.js) | Easy |  
 | 113  | [ Reorganize String](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_767.js) | [Solution](./leetCode_767.js) | Medium |  
 | 114  | [ Network Delay Time](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_743.js) | [Solution](./leetCode_743.js) | Medium |  
-| 115  | [More Coming Soon... 🚀🚀](#) |  |
+| 115  | [ As Far from Land as Possible](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_1162.js) | [Solution](./leetCode_1162.js) | Medium |  
+| 116  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
