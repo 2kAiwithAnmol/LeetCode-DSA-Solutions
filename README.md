@@ -127,7 +127,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 114  | [ Network Delay Time](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_743.js) | [Solution](./leetCode_743.js) | Medium |  
 | 115  | [ As Far from Land as Possible](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_1162.js) | [Solution](./leetCode_1162.js) | Medium |  
 | 116  | [ All Paths From Source to Target](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_797.js) | [Solution](./leetCode_797.js) | Medium |  
-| 117  | [More Coming Soon... 🚀🚀](#) |  |
+| 117  | [ Find Eventual Safe States](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_802.js) | [Solution](./leetCode_802.js) | Medium |  
+| 118  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
