@@ -129,7 +129,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 116  | [ All Paths From Source to Target](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_797.js) | [Solution](./leetCode_797.js) | Medium |  
 | 117  | [ Find Eventual Safe States](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_802.js) | [Solution](./leetCode_802.js) | Medium |  
 | 118  | [ Course Schedule](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_207.js) | [Solution](./leetCode_207.js) | Medium |  
-| 119  | [More Coming Soon... 🚀🚀](#) |  |
+| 119  | [ Course Schedule II](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_210.js) | [Solution](./leetCode_210.js) | Medium |  
+| 120  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
