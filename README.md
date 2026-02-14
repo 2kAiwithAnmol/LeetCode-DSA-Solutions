@@ -131,7 +131,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 118  | [ Course Schedule](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_207.js) | [Solution](./leetCode_207.js) | Medium |  
 | 119  | [ Course Schedule II](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_210.js) | [Solution](./leetCode_210.js) | Medium |  
 | 120  | [ Group Anagrams](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_49.js) | [Solution](./leetCode_49.js) | Medium |  
-| 121  | [More Coming Soon... 🚀🚀](#) |  |
+| 121  | [ Longest Substring Without Repeating Characters](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_3.js) | [Solution](./leetCode_3.js) | Medium |  
+| 122  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
