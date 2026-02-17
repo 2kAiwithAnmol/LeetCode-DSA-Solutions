@@ -133,7 +133,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 120  | [ Group Anagrams](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_49.js) | [Solution](./leetCode_49.js) | Medium |  
 | 121  | [ Longest Substring Without Repeating Characters](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_3.js) | [Solution](./leetCode_3.js) | Medium |  
 | 122  | [ Subarray Sum Equals K](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_560.js) | [Solution](./leetCode_560.js) | Medium |  
-| 123  | [More Coming Soon... 🚀🚀](#) |  |
+| 123  | [ Copy List with Random Pointer](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_138.js) | [Solution](./leetCode_138.js) | Medium |  
+| 124  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
