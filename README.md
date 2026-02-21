@@ -135,7 +135,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 122  | [ Subarray Sum Equals K](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_560.js) | [Solution](./leetCode_560.js) | Medium |  
 | 123  | [ Copy List with Random Pointer](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_138.js) | [Solution](./leetCode_138.js) | Medium |  
 | 124  | [ LRU Cache](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_146.js) | [Solution](./leetCode_146.js) | Medium |  
-| 125  | [More Coming Soon... 🚀🚀](#) |  |
+| 125  | [ Find All Anagrams in a String](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_438.js) | [Solution](./leetCode_438.js) | Medium |  
+| 126  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
