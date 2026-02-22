@@ -136,7 +136,9 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 123  | [ Copy List with Random Pointer](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_138.js) | [Solution](./leetCode_138.js) | Medium |  
 | 124  | [ LRU Cache](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_146.js) | [Solution](./leetCode_146.js) | Medium |  
 | 125  | [ Find All Anagrams in a String](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_438.js) | [Solution](./leetCode_438.js) | Medium |  
-| 126  | [More Coming Soon... 🚀🚀](#) |  |
+| 126  | [ Word Pattern](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_290.js) | [Solution](./leetCode_290.js) | Easy |  
+| 127  | [More Coming Soon... 🚀🚀](#) |  |
+
 
 
 
