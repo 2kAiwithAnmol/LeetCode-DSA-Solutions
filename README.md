@@ -137,7 +137,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 124  | [ LRU Cache](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_146.js) | [Solution](./leetCode_146.js) | Medium |  
 | 125  | [ Find All Anagrams in a String](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_438.js) | [Solution](./leetCode_438.js) | Medium |  
 | 126  | [ Word Pattern](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_290.js) | [Solution](./leetCode_290.js) | Easy |  
-| 127  | [More Coming Soon... 🚀🚀](#) |  |
+| 127  | [ Maximum Sum of Distinct Subarrays With Length K](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_2461.js) | [Solution](./leetCode_2461.js) | Medium |  
+| 128  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
