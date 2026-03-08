@@ -142,7 +142,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 129  | [ Fruit Into Baskets](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_904.js) | [Solution](./leetCode_904.js) | Medium |  
 | 130  | [ Longest Repeating Character Replacement](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_424.js) | [Solution](./leetCode_424.js) | Medium |  
 | 131  | [ Minimum Window Substring](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_76.js) | [Solution](./leetCode_76.js) | Hard |  
-| 132  | [More Coming Soon... 🚀🚀](#) |  |
+| 132  | [ Remove Nth Node From End of List](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_19.js) | [Solution](./leetCode_19.js) | Medium |  
+| 133  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
