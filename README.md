@@ -143,7 +143,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 130  | [ Longest Repeating Character Replacement](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_424.js) | [Solution](./leetCode_424.js) | Medium |  
 | 131  | [ Minimum Window Substring](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_76.js) | [Solution](./leetCode_76.js) | Hard |  
 | 132  | [ Remove Nth Node From End of List](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_19.js) | [Solution](./leetCode_19.js) | Medium |  
-| 133  | [More Coming Soon... 🚀🚀](#) |  |
+| 133  | [ Odd Even Linked List](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_328.js) | [Solution](./leetCode_328.js) | Medium |  
+| 134  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
