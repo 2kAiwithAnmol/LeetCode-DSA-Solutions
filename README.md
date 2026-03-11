@@ -144,7 +144,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 131  | [ Minimum Window Substring](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_76.js) | [Solution](./leetCode_76.js) | Hard |  
 | 132  | [ Remove Nth Node From End of List](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_19.js) | [Solution](./leetCode_19.js) | Medium |  
 | 133  | [ Odd Even Linked List](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_328.js) | [Solution](./leetCode_328.js) | Medium |  
-| 134  | [More Coming Soon... 🚀🚀](#) |  |
+| 134  | [ Add Two Numbers](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_2.js) | [Solution](./leetCode_2.js) | Medium |  
+| 135  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
