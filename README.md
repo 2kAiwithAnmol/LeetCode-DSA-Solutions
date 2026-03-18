@@ -148,7 +148,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 135  | [ Swap Nodes in Pairs](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_24.js) | [Solution](./leetCode_24.js) | Medium |  
 | 136  | [ Linked List Cycle II](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_142.js) | [Solution](./leetCode_142.js) | Medium |  
 | 137  | [ Reverse Linked List](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_206.js) | [Solution](./leetCode_206.js) | Medium |  
-| 138  | [More Coming Soon... 🚀🚀](#) |  |
+| 138  | [ Reverse Linked List II](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_92.js) | [Solution](./leetCode_92.js) | Medium |  
+| 139  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
