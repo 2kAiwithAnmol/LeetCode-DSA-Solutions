@@ -150,7 +150,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 137  | [ Reverse Linked List](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_206.js) | [Solution](./leetCode_206.js) | Medium |  
 | 138  | [ Reverse Linked List II](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_92.js) | [Solution](./leetCode_92.js) | Medium |  
 | 139  | [ Reorder List](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_143.js) | [Solution](./leetCode_143.js) | Medium |  
-| 140  | [More Coming Soon... 🚀🚀](#) |  |
+| 140  | [ Sort an Array](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_912_mergeSort.js) | [Solution](./leetCode_912.js) | Medium |  
+| 141  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
