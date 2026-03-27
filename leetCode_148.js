@@ -1,65 +1,53 @@
 //Optimized approach using merge sort
 var sortList = function(head) {
-    // if list has 0 or 1 node → already sorted
-    if (head === null || head.next === null) return head;
+    // if list is empty or has only 1 node, it's already sorted
+    if (!head || !head.next) return head;
 
-    let fast = head;
+    // Step 1: Find the middle of the list using slow & fast pointers
     let slow = head;
+    let fast = head;
     let prev = null;
 
-    // find middle of list using slow & fast pointers
-    while (fast !== null && fast.next !== null) {
+    while (fast && fast.next) {
         prev = slow;          // keep track of node before slow
-        fast = fast.next.next;
-        slow = slow.next;
+        slow = slow.next;     // move slow by 1
+        fast = fast.next.next; // move fast by 2
     }
 
-    // break list into two halves
-    prev.next = null;
+    // Step 2: Break the list into two halves
+    prev.next = null; // cut connection
 
-    // sort left half
-    let left = sortList(head);
+    // Step 3: Recursively sort both halves
+    let left = sortList(head);   // first half
+    let right = sortList(slow);  // second half
 
-    // sort right half
-    let right = sortList(slow);
-
-    // merge both sorted halves
+    // Step 4: Merge the two sorted halves
     return merge(left, right);
-};
 
-function merge(l1, l2) {
-    // dummy node to simplify merging
-    let dummy = new ListNode(0);
-    let tail = dummy;
+    // Helper function to merge two sorted linked lists
+    function merge(l1, l2) {
+        let dummy = new ListNode(0); // dummy node to build result
+        let current = dummy;
 
-    // compare nodes and build sorted list
-    while (l1 !== null && l2 !== null) {
-        if (l1.val <= l2.val) {
-            tail.next = l1;   // take node from l1
-            l1 = l1.next;
-        } else {
-            tail.next = l2;   // take node from l2
-            l2 = l2.next;
+        // Compare nodes and attach smaller one
+        while (l1 !== null && l2 !== null) {
+            if (l1.val < l2.val) {
+                current.next = l1;   // take from l1
+                l1 = l1.next;
+            } else {
+                current.next = l2;   // take from l2
+                l2 = l2.next;
+            }
+            current = current.next; // move forward
         }
-        tail = tail.next;     // move forward
-    }
 
-    // attach remaining nodes (only one of these will run)
-    while (l1 !== null) {
-        tail.next = l1;
-        tail = tail.next;
-        l1 = l1.next;
-    }
+        // Attach remaining nodes (only one of them will exist)
+        current.next = l1 || l2;
 
-    while (l2 !== null) {
-        tail.next = l2;
-        tail = tail.next;
-        l2 = l2.next;
+        // Return the merged sorted list
+        return dummy.next;
     }
-
-    // return head of merged list
-    return dummy.next;
-}
+};
 //Brute force approach
 var sortList = function(head) {
   let current = head;
