@@ -153,7 +153,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 140  | [ Sort an Array](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_912_mergeSort.js) | [Solution](./leetCode_912.js) | Medium |  
 | 141  | [ Sort List](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_148.js) | [Solution](./leetCode_148.js) | Medium |  
 | 142  | [ Partition List](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_86.js) | [Solution](./leetCode_86.js) | Medium |  
-| 143  | [More Coming Soon... 🚀🚀](#) |  |
+| 143  | [ Custom Sort String](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_791.js) | [Solution](./leetCode_791.js) | Medium |  
+| 144  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
