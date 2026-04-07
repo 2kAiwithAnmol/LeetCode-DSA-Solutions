@@ -155,7 +155,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 142  | [ Partition List](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_86.js) | [Solution](./leetCode_86.js) | Medium |  
 | 143  | [ Custom Sort String](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_791.js) | [Solution](./leetCode_791.js) | Medium |  
 | 144  | [ Lemonade Change](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_860.js) | [Solution](./leetCode_860.js) | Easy |  
-| 145  | [More Coming Soon... 🚀🚀](#) |  |
+| 145  | [ Assign Cookies](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_455.js) | [Solution](./leetCode_455.js) | Easy |  
+| 146  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
