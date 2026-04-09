@@ -157,7 +157,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 144  | [ Lemonade Change](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_860.js) | [Solution](./leetCode_860.js) | Easy |  
 | 145  | [ Assign Cookies](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_455.js) | [Solution](./leetCode_455.js) | Easy |  
 | 146  | [ Can Place Flowers](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_605.js) | [Solution](./leetCode_605.js) | Easy |  
-| 147  | [More Coming Soon... 🚀🚀](#) |  |
+| 147  | [ Maximum Units on a Truck](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_1710.js) | [Solution](./leetCode_1710.js) | Easy |  
+| 148  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
