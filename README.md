@@ -159,7 +159,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 146  | [ Can Place Flowers](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_605.js) | [Solution](./leetCode_605.js) | Easy |  
 | 147  | [ Maximum Units on a Truck](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_1710.js) | [Solution](./leetCode_1710.js) | Easy |  
 | 148  | [ Array Partition](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_561.js) | [Solution](./leetCode_561.js) | Easy |  
-| 149  | [More Coming Soon... 🚀🚀](#) |  |
+| 149  | [ Maximum 69 Number](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_1323.js) | [Solution](./leetCode_1323.js) | Easy |  
+| 150  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
