@@ -160,7 +160,8 @@ Here, I upload my **LeetCode DSA** problem solutions using **JavaScript**, optim
 | 147  | [ Maximum Units on a Truck](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_1710.js) | [Solution](./leetCode_1710.js) | Easy |  
 | 148  | [ Array Partition](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_561.js) | [Solution](./leetCode_561.js) | Easy |  
 | 149  | [ Maximum 69 Number](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_1323.js) | [Solution](./leetCode_1323.js) | Easy |  
-| 150  | [More Coming Soon... 🚀🚀](#) |  |
+| 150  | [ Minimum Cost to Move Chips to The Same Position](https://github.com/2kAiwithAnmol/LeetCode-DSA-Solutions/blob/main/leetCode_1217.js) | [Solution](./leetCode_1217.js) | Easy |  
+| 151  | [More Coming Soon... 🚀🚀](#) |  |
 
 
 
